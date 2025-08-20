@@ -2,7 +2,7 @@
 
 Welcome to the **AI vs Human Content Analysis** mini project! This project lets you explore and compare engagement metrics between AI-generated and human-written content using an interactive dashboard and automated analysis reports.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -10,7 +10,21 @@ Welcome to the **AI vs Human Content Analysis** mini project! This project lets 
 - **Key Question:** _Does AI-generated content get more or less engagement (likes, comments, shares) than human-created content?_
 - **Tech Stack:** Python, Streamlit, Plotly, Pandas, Matplotlib, Seaborn, python-docx
 
----
+
+
+## 💡 Dashboard Screenshots
+
+
+- Average Engagement Score Chart 
+![Average Engagement Score Screen](images/average_engagement_score.png)
+
+- Engagement Trend Over Time Chart
+![Engagement Trend Over Time Chart](images/engagement_trend_over_time.png)
+
+- Total Engagement By Author 
+![Total Engagement By Author](images/total_engagement_by_author_type.png)
+
+
 
 ## ✨ Features
 
@@ -114,3 +128,4 @@ Welcome to the **AI vs Human Content Analysis** mini project! This project lets 
 ## 📝 License
 
 This project is for educational and portfolio use. Feel free to adapt and share!
+
