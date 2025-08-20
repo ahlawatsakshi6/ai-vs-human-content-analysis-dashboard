@@ -1,0 +1,6 @@
+pip>=24.1
+pandas>=2.2.0
+streamlit>=1.36.0
+plotly>=5.22.0
+python-docx>=1.1.0
+
