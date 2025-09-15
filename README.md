@@ -1,6 +1,6 @@
 # 🤖📊 AI vs Human Content Analysis Dashboard
 
-Welcome to the **AI vs Human Content Analysis** mini project! This project lets you explore and compare engagement metrics between AI-generated and human-written content using an interactive dashboard and automated analysis reports.
+Welcome to the **AI vs Human Content Analysis** mini project! This project lets you explore and compare engagement metrics between AI-generated and human-written content using an interactive dashboard and automated analysis reports..
 
 
 
